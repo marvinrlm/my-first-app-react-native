@@ -1,5 +1,6 @@
 {
   "name": "my-first-app-react-native",
+  "author": "marvin-lopez",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
